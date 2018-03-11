@@ -1,3 +1,2 @@
 globalkit
-
-![test1](./test1.png)
+![GIF1](./GIF1.gif)
